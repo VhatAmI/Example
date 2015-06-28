@@ -1,1 +1,2 @@
 Initial commit
+This commit happens on master before working branch (This will cause a merge conflict later)
